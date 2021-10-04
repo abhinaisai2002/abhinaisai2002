@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhinai Sai
+# Hey There I am Abhinai sai
 - 👀 I’m interested in programming,front end development
 - 🌱 I’m currently learning react js and DSA
 - 📫 How to reach me abhinaisai10@gmail.com
